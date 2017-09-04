@@ -1,0 +1,10 @@
+C:\Users\Kozlowski\Desktop\aspnet-angular-tutorial\CoolApp\obj\Debug\netcoreapp1.1\CoolApp.csproj.CoreCompileInputs.cache
+C:\Users\Kozlowski\Desktop\aspnet-angular-tutorial\CoolApp\obj\Debug\netcoreapp1.1\CoolApp.AssemblyInfoInputs.cache
+C:\Users\Kozlowski\Desktop\aspnet-angular-tutorial\CoolApp\obj\Debug\netcoreapp1.1\CoolApp.AssemblyInfo.cs
+C:\Users\Kozlowski\Desktop\aspnet-angular-tutorial\CoolApp\bin\Debug\netcoreapp1.1\CoolApp.deps.json
+C:\Users\Kozlowski\Desktop\aspnet-angular-tutorial\CoolApp\bin\Debug\netcoreapp1.1\CoolApp.runtimeconfig.json
+C:\Users\Kozlowski\Desktop\aspnet-angular-tutorial\CoolApp\bin\Debug\netcoreapp1.1\CoolApp.runtimeconfig.dev.json
+C:\Users\Kozlowski\Desktop\aspnet-angular-tutorial\CoolApp\bin\Debug\netcoreapp1.1\CoolApp.dll
+C:\Users\Kozlowski\Desktop\aspnet-angular-tutorial\CoolApp\bin\Debug\netcoreapp1.1\CoolApp.pdb
+C:\Users\Kozlowski\Desktop\aspnet-angular-tutorial\CoolApp\obj\Debug\netcoreapp1.1\CoolApp.dll
+C:\Users\Kozlowski\Desktop\aspnet-angular-tutorial\CoolApp\obj\Debug\netcoreapp1.1\CoolApp.pdb
